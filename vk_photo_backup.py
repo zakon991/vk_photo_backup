@@ -1,8 +1,7 @@
 import json
 from datetime import datetime
 import requests
-
-access_token = '<Введите токен VK>'
+from access_token import access_token
 
 
 class VK:
